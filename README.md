@@ -1,5 +1,4 @@
-# avocado
-This is one example project.
+# This is the avocado example project
 
 ## Context
 This data set was taken from https://www.kaggle.com/neuromusic/avocado-prices and used to practice data exploration and visualizations.
